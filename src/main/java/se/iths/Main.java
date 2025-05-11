@@ -1,6 +1,7 @@
 package se.iths;
 import java.util.Scanner;
 // Michel Dahl 205-05-11
+//
 
 public class Main {
     public static void main(String[] args) {
